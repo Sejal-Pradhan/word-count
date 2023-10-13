@@ -1,0 +1,29 @@
+.container {
+  width: 80%;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.container .row{
+  margin-top: -20px;
+}
+
+textarea {
+  width: 700px;
+  height: 250px;
+  background: #eee;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.word-count {
+  color: blue;
+  font-weight: bold;
+  text-align: left;
+}
+
+.char-count {
+  color: red;
+  font-weight: bold;
+  text-align: left;
+}
